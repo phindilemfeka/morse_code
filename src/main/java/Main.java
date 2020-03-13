@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 public class Main {
 
@@ -13,10 +12,11 @@ public class Main {
         switch (option)
         {
             case "1":
-                System.out.println(MorseCodeObj.letters_to_morseCode());
+
+                System.out.println(MorseCodeObj.letters_to_morseCode("phindile"));
                 break;
             case "2":
-                System.out.println( MorseCodeObj.morseCode_to_letters());
+                System.out.println( MorseCodeObj.morseCode_to_letters(".... .. / - .... . .-. ."));
                 break;
             default:
                 System.out.println("Invalid input");

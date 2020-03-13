@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8a061f6-5e3f-4728-a946-a9a709877cd7" name="Default Changelist" comment="" />
+    <list default="true" id="d8a061f6-5e3f-4728-a946-a9a709877cd7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/morse_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/morse_code.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +17,18 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z4727GVYbZLJZK2a5Q6n6hGqF9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,6 +36,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="morse_code.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,9 +69,56 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="311" y="58" width="848" height="677" key="#Project_Structure" timestamp="1584088567078">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="848" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1584088567078" />
     <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584086378949">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1299.741@67.27.1299.741" timestamp="1584086378949" />
+    <state width="1253" height="244" key="GridCell.Tab.0.bottom" timestamp="1584088544434">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="244" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584088544434" />
+    <state width="1253" height="244" key="GridCell.Tab.0.center" timestamp="1584088544434">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="244" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584088544434" />
+    <state width="1253" height="244" key="GridCell.Tab.0.left" timestamp="1584088544434">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="244" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584088544434" />
+    <state width="1253" height="244" key="GridCell.Tab.0.right" timestamp="1584088544434">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="244" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584088544434" />
+    <state width="1253" height="220" key="GridCell.Tab.1.bottom" timestamp="1584087732808">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="220" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584087732808" />
+    <state width="1253" height="220" key="GridCell.Tab.1.center" timestamp="1584087732808">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="220" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1584087732808" />
+    <state width="1253" height="220" key="GridCell.Tab.1.left" timestamp="1584087732808">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="220" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1584087732808" />
+    <state width="1253" height="220" key="GridCell.Tab.1.right" timestamp="1584087732808">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="220" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1584087732808" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

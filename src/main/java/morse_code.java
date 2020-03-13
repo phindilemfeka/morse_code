@@ -13,9 +13,9 @@ public class morse_code
                 "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.."};
 
         //Method to covert letters to morsecode
-        public String letters_to_morseCode()
+        public String letters_to_morseCode(String input)
         {
-            String input = scan.next().toLowerCase();
+
             char[] chars = input.toCharArray();
             StringBuilder str = new StringBuilder();
 
@@ -35,12 +35,11 @@ public class morse_code
             return str.toString();
         }
 
+
         //Method to covert letters to morsecode
-        public String morseCode_to_letters()
+        public String morseCode_to_letters(String input2)
         {
             String[] temp = {""};
-            System.out.println("Please enter morse code: ");
-            String input2 = scan.nextLine();
             StringBuilder ans = new StringBuilder();
 
             temp = input2.split(" ");
